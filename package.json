@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "react-native-ken-burns@4.0.1",
+      "/Users/elliotwaddington/repos/personal/one-point-perspective/frontend"
+    ]
+  ],
+  "_from": "react-native-ken-burns@4.0.1",
+  "_id": "react-native-ken-burns@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-00/YI/PTfCOvCnzmxp4bIBTAVUHJ9IsgjysgjgPmK7SMFDZQe2G+dFFv+4hSfDptleBzzNp8njohJKm1jqD9CA==",
+  "_location": "/react-native-ken-burns",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-ken-burns@4.0.1",
+    "name": "react-native-ken-burns",
+    "escapedName": "react-native-ken-burns",
+    "rawSpec": "4.0.1",
+    "saveSpec": null,
+    "fetchSpec": "4.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-ken-burns/-/react-native-ken-burns-4.0.1.tgz",
+  "_spec": "4.0.1",
+  "_where": "/Users/elliotwaddington/repos/personal/one-point-perspective/frontend",
+  "bugs": {
+    "url": "https://github.com/nHiRanZ/react-native-kenburns-view/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nimila Hiranya Samarasinghe"
+    },
+    {
+      "name": "Hammad Jutt",
+      "email": "h@jutt.ca",
+      "url": "https://github.com/hammadj"
+    }
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-timeout": "^2.0.1",
+    "rebound": "^0.1.0"
+  },
+  "description": "KenBurns Image Effect for React Native",
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/hammadj/react-native-ken-burns",
+  "keywords": [
+    "react-native",
+    "kenburns"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-ken-burns",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammadj/react-native-ken-burns.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.1"
+}
