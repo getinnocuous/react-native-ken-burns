@@ -1,5 +1,5 @@
-import * as React from 'react';
-import { StyleProp, ViewStyle } from 'react-native';
+import * as React from "react";
+import { StyleProp, ViewStyle } from "react-native";
 
 type Props = {
   duration?: number;
@@ -8,6 +8,7 @@ type Props = {
   min?: number;
   max?: number;
   style?: StyleProp<ViewStyle>;
+  children?: React.ReactNode;
 };
 
 export default class KenburnsView extends React.Component<Props> {}
